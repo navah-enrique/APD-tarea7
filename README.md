@@ -8,7 +8,7 @@ R: 5.21 GBs
 
 Carga el JSON en Spark y cuantífica cuánto pesa el DataFramen en memoria RAM.
 
-R: 
+R: 153.78 MBs
 
 Guarda el DataFrame como parquet en disco y muestra cuánto pesa el archivo. Cómo se compara con el JSON crudo.
 
